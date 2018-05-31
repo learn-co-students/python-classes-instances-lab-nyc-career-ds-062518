@@ -12,7 +12,7 @@ Okay, we learned how to delcare classes and create instances in our last lesson.
 ## Defining Classes
 
 
-Let's define a `Ride`, `Driver`, and `Passenger` class as these are all crucial parts to a single ride. We have provided files for you aptly named ride.py, driver.py, and passenger.py where you can define the appropriate classes. Below, we import the classes from those files so we can use them in our code. The import syntax in Python is as follows: the keyword `from` followed by the name of the file then the keyword `import` and finally the name of the object we are importing (i.e. `import` `[filename]` `from` `[object_name]`). The first import is done for you, follow its example to import the other two classes.
+Let's define a `Ride`, `Driver`, and `Passenger` class as these are all crucial parts to a single ride. We have provided files for you aptly named ride.py, driver.py, and passenger.py where you can define the appropriate classes. Below, we import the classes from those files so we can use them in our code. The import syntax in Python is as follows: the keyword `from` followed by the name of the file then the keyword `import` and finally the name of the object we are importing (i.e. `from` `[filename]` `import` `[object_name]`). The first import is done for you, follow its example to import the other two classes.
 
 > **Reminder:** *since we need to have some Python code in our class when we define it, we can simply write the keyword `pass` on the first line under our class definition*
 
