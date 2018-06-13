@@ -2,7 +2,7 @@
 # Practice With Classes and Instances
 
 ## Introduction
-Okay, we learned how to delcare classes and create instances in our last lesson. Let's put these new skills to the test!
+Okay, we learned how to declare classes and create instances in our last lesson. Let's put these new skills to the test!
 
 ## Objectives
 
